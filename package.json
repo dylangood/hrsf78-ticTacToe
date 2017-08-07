@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dylangood/hrsf78-ticTacToe#readme",
   "dependencies": {
+    "chai": "^4.1.1",
     "mocha": "^3.5.0"
   }
 }
