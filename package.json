@@ -1,0 +1,22 @@
+{
+  "name": "hrsf87-tictactoe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe command line game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylangood/hrsf78-ticTacToe.git"
+  },
+  "author": "Dylan Gould",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylangood/hrsf78-ticTacToe/issues"
+  },
+  "homepage": "https://github.com/dylangood/hrsf78-ticTacToe#readme",
+  "dependencies": {
+    "mocha": "^3.5.0"
+  }
+}
